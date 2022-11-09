@@ -34,25 +34,12 @@ meta.titlebar {
 meta.titlebar.inactive {
   background-color: #15062B;
 }
-
-meta.button {
-  background: #15062B;
-  color: #FFFAED;
-  border: 1px solid #5B506A;
-}
-meta.button.highlighted {
-  background: #15062B;
-}
 meta.button.selected {
-  color: #53606d;
-}
-meta.button.highlighted.selected {
-  color: #53606d;
+  color: #FFFAED;
 }
 meta.button.disabled {
-  background: #53606d;
-  border: #53606d;
-  color: #b6a99b;
+  background-color: #433755;
+  color: #5B506A;
 }
 
 meta.textfield {
@@ -67,21 +54,6 @@ meta.document {
   background-color: #15062B;
   border-color: #5B506A;
 }
-
-meta.document.button {
-  background: #15062B;
-  color: #FFFAED;
-  border: 1px solid #B28773;
-}
-meta.document.button.disabled {
-  background: #53606d;
-  border: #53606d;
-  color: #b6a99b;
-}
-meta.document.button.highlighted {
-  background: #15062B;
-}
-
 meta.document.textfield {
   background-color: #5B506A;
   border-color: #15062B;
