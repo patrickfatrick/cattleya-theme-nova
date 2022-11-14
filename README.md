@@ -1,1 +1,1 @@
-orchid.novaextension/README.md
+cattleya.novaextension/README.md

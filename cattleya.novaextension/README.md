@@ -12,4 +12,4 @@ This is based on prior work for [Sublime Text](https://github.com/patrickfatrick
 
 Years ago I created a theme for Adobe's Brackets editor called "orchid". The name was inspired by a gorgeous purple color used prominently within the theme (#DA70D6, aka ["orchid"](https://en.wikipedia.org/wiki/Orchid_(color))). Since then, as I've moved to other code editors, I've adapted and improved on this theme for whichever editor I'm using at any given moment. I hadn't really given the name much thought since I originally created it. As I'm now working on bringing this theme to nova I'm now considering the name again, and I've landed on "cattleya" because it's an evocative name which harkens back to the original, cattleya being a genus within the orchid family.
 
-![cattleya](./images/extension/cattleya.png)
+![cattleya](https://raw.githubusercontent.com/patrickfatrick/cattleya-theme-nova/main/cattleya.novaextension/Images/extension/cattleya.png)
