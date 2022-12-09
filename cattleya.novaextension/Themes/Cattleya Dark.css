@@ -15,7 +15,7 @@ meta {
 	--pinkish: #DA70D6;
 	--brownish: #B28773;
 	--blackish: #15062B;
-	--whitish: #FFFAED;
+	--whitish: #FFFCF6;
 	--cyanish: #00FFFF;
 }
 
@@ -27,15 +27,15 @@ meta.window {
   border-color: #5B506A;
 }
 meta.titlebar {
-  color: #FFFAED;
+  color: #FFFCF6;
   border-color: #5B506A;
-  background-color: #382B4B;
+  background-color: #2c1e40;
 }
 meta.titlebar.inactive {
-  background-color: #15062B;
+  background-color: #382B4B;
 }
 meta.button.selected {
-  color: #FFFAED;
+  color: #FFFCF6;
 }
 meta.button.disabled {
   background-color: #433755;
@@ -61,7 +61,7 @@ meta.document.textfield {
 
 /* Text */
 meta.text {
-  color: #FFFAED;
+  color: #FFFCF6;
 }
 meta.text.invisible {
   color: #B28773;
@@ -112,7 +112,7 @@ declaration {
   color: #43bbce;
 }
 bracket {
-  color: #FFFAED;
+  color: #FFFCF6;
 }
 operator {
   color: #DA70D6;
@@ -245,7 +245,7 @@ markup.list.item {
   color: #FF9A69;
 }
 markup.code {
-  background-color: #5B506A;
+  color: #B28773;
 }
 
 /* Types */
@@ -328,7 +328,7 @@ style.selector.pseudoelement {
   color: #63E87F;
 }
 style.selector.separator {
-  color: #FFFAED;
+  color: #FFFCF6;
 }
 style.attribute.name {
   color: #FFDAA5;
@@ -339,7 +339,7 @@ style.value.number {
 style.value.color.hex {
   color: #00B0FF;
 }
-style.value.keyword {
+style.value.keyword:not(.var-function.arguments) {
   color: #DA70D6;
 }
 style.value.color.named {
@@ -355,7 +355,7 @@ json.key.delimiter {
 json.colon,
 json.bracket,
 json.comma {
-  color: #FFFAED;
+  color: #FFFCF6;
 }
 
 /* SQL */
