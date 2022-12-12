@@ -2,9 +2,9 @@
 
 **Cattleya** (formerly orchid) is a theme for [nova](https://nova.app) that aims to be one you can look at all day. It's contrasty, it's fun, it uses syntax grammars to their fullest (mostly JS and TS since that's what I spend the most time looking at). Note: I'm new Nova and this extension is still a work-in-progress.
 
-![screenshot-dark](https://raw.githubusercontent.com/patrickfatrick/orchid-theme-nova/c05d31816e3c3c1ab981cf1335202a1b4740ad4b/orchid.novaextension/Images/extension/screenshot.png)
+![screenshot-dark](https://raw.githubusercontent.com/patrickfatrick/cattleya-theme-nova/main/cattleya.novaextension/Images/extension/dark.png)
 
-![screenshot-light](https://raw.githubusercontent.com/patrickfatrick/orchid-theme-nova/c05d31816e3c3c1ab981cf1335202a1b4740ad4b/orchid.novaextension/Images/extension/screenshot.png)
+![screenshot-light](https://raw.githubusercontent.com/patrickfatrick/cattleya-theme-nova/main/cattleya.novaextension/Images/extension/light.png)
 
 ## Acknowledgements
 
