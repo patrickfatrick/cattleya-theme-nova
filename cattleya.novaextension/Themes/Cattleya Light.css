@@ -1,7 +1,7 @@
 meta {
   -theme-interface-style: light;
   -theme-vibrancy: none;
-  -theme-accent-color: auto;
+  -theme-accent-color: false;
 }
 
 /* can't actually use var here but leaving here for reference */
@@ -23,7 +23,7 @@ meta {
  * Window styles
  */
 meta.window {
-  background-color: #E0DAEA;
+  background-color: #EEEAF3;
   border-color: #B7A8CD;
 }
 meta.titlebar {
@@ -32,7 +32,7 @@ meta.titlebar {
   background-color: #CCC2DC;
 }
 meta.titlebar.inactive {
-  background-color: #E0DAEA;
+  background-color: #EEEAF3;
 }
 meta.button.selected {
   color: #15062B;
@@ -58,7 +58,7 @@ meta.text.invisible {
   color: #B28773;
 }
 meta.text.selected {
-  color: #405960;
+  background-color: #bdeecf;
 }
 
 /* Cursor */
