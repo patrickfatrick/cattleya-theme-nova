@@ -151,18 +151,22 @@ identifier {
 identifier.name {
 	color: #FFDAA5;
 }
+type,
 identifier.type {
   color: #00FFFF;
 }
+variable,
 identifier.constant {
 	color: #FF9A69;
 }
 identifier.variable {
   color: #fd8877;
 }
+object.property,
 identifier.property {
 	color: #FFDAA5;
 }
+function,
 identifier.decorator,
 identifier.function,
 identifier.method {
